@@ -4,7 +4,7 @@
 const { chromium, devices } = require('playwright');
 const path = require('path');
 
-const URL = 'http://127.0.0.1:8123/';
+const URL = process.env.APP_URL || 'http://127.0.0.1:8123/';
 const OUT = process.argv[2] || path.join(__dirname, 'shots');
 const results = [];
 const check = (name, ok, extra = '') => {
