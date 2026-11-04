@@ -2,6 +2,8 @@
 
 A chess game that runs fully offline on an iPad (or any phone, tablet or computer).
 
+**Play it here:** https://jezza1938.github.io/Chess/ (open it in Safari, then Share → Add to Home Screen)
+
 - **Play vs Bot**: 10 difficulty levels, from complete beginner to full Stockfish strength
 - **2 Players**: pass-and-play on one device with a real tap clock. Move, then tap your clock
 - **Editable timers**: presets from 1 to 60 minutes, custom minutes, seconds added per move,
